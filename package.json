@@ -1,0 +1,22 @@
+{
+  "name": "cypress-lt",
+  "version": "1.0.0",
+  "description": "To run: ```sh  npm install  npm run cypress  ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PGS-dev/cypress-lt.git"
+  },
+  "author": "dkowalski@pgs-soft.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PGS-dev/cypress-lt/issues"
+  },
+  "homepage": "https://github.com/PGS-dev/cypress-lt#readme",
+  "devDependencies": {
+    "cypress": "^3.0.2"
+  }
+}
