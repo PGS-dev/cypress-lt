@@ -1,0 +1,1 @@
+export const TOKEN = 'Get your token from real app in Dev Tools-> Application -> Local Storage';

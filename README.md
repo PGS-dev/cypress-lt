@@ -1,7 +1,7 @@
 # cypress-lt
 
-To run:
+First install [NodeJS](https://nodejs.org/en/) and after that put those in your console:
 ```sh
  npm install
- npm run cypress
+ npm test
  ```
