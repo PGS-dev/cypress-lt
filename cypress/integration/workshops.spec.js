@@ -9,7 +9,7 @@ describe('PGS Workshops', () => {
   });
 
   it('should filter by workshop title', () => {
-    cy.get('.table-link > a').should('have.length', 6);
+    cy.get('.table-link > a').should('have.length', 3);
 
     cy.get('#titleFilter').type('Cypress');
     cy.get('#btnSearchFilter').click();
